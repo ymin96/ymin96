@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=FFA883&height=300&section=header&text=Yonghwan%20Kim%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=slice&color=FFA883&height=300&section=header&text=YongHwan%20Kim%20&fontSize=90)
 
 
 # Experience
